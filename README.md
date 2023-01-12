@@ -1,6 +1,6 @@
 # 🧠 Machine-Learning-Notes
 
-🙋‍ Welcome to ML lecture notes and exercises I have done when I took the some of the ML course from ```365 Data Science``` and ```Coursera```.
+🙋‍ Welcome to my ML repos. These are the lecture notes and exercises I have done when I took the some of the ML course from ```365 Data Science``` and ```Coursera```.
 
 ### 📖 Table of Contents
 - [1. Used Car Price Prediction](#1-used-car-price-prediction)
